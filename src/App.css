@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i");
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: Menlo, Consolas, "Courier New", monospace;
+}
+
+.muiwidgets {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+.muiwidgets main {
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+}
